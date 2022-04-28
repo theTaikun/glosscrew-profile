@@ -1,0 +1,5 @@
+html, body {
+    /* Reset spacing differences between browsers */
+    margin: 0;
+    padding: 0;
+}
