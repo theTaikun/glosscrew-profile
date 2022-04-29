@@ -3,3 +3,26 @@ html, body {
     margin: 0;
     padding: 0;
 }
+
+img {
+    /* temp to not draw attention at work */
+    /* display: none doens't take up spaace, whereas visibility: hidden keeps empty space */
+    /* display: none; */
+    /* visibility: hidden; */
+}
+
+.above-fold {
+    display: flex;
+    padding: 0 15em;
+}
+
+.above-fold__profile-pic{
+    flex: 1;
+}
+
+.above-fold__title {
+    flex: 3;
+    margin: auto;
+    text-align: center;
+    font-size: 5em;
+}
