@@ -8,7 +8,7 @@ img {
     /* temp to not draw attention at work */
     /* display: none doens't take up spaace, whereas visibility: hidden keeps empty space */
     /* display: none; */
-    /* visibility: hidden; */
+    visibility: hidden;
 }
 
 .above-fold {
@@ -25,4 +25,9 @@ img {
     margin: auto;
     text-align: center;
     font-size: 5em;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
 }
