@@ -1,0 +1,11 @@
+.above-fold{
+    display: flex;
+}
+
+.profile_name{
+    flex: 3
+}
+
+.profile_picture{
+    flex: 1
+}

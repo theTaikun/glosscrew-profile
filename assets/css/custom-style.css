@@ -1,0 +1,11 @@
+.above-fold{
+    display: flex;
+}
+
+.page-heading{
+    flex: 3;
+}
+
+.above-fold img{
+    flex: 1;
+}
