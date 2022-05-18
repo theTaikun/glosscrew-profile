@@ -4,6 +4,9 @@
 
 .page-heading{
     flex: 3;
+    text-align: center;
+    margin: auto;
+    font-size: 5em;
 }
 
 .above-fold img{
