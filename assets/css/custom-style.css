@@ -11,4 +11,5 @@
 
 .above-fold img{
     flex: 1;
+    width: 100%
 }
